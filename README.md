@@ -34,31 +34,7 @@ Docker (for containerization, optional)
 The dataset used in this project consists of 1000+ entries of loan applicants, including features such as age, job, housing status, credit amount, and duration of the loan.
 Data preprocessing steps include standard scaling of numerical features and one-hot encoding of categorical features.
 The similarity graph is constructed using K-Nearest Neighbors (KNN) based on the processed features.
-Installation
-To set up the project on your local machine, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/credit-risk-assessment.git
-cd credit-risk-assessment
-Create and activate a virtual environment (optional but recommended):
-
-bash
-Copy code
-python3 -m venv venv
-source venv/bin/activate
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter Notebook or Python scripts:
-
-bash
-Copy code
-jupyter notebook
 
 ### Usage
 Data Preprocessing: Run the data preprocessing steps to clean and prepare the dataset.
