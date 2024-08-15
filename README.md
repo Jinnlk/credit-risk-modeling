@@ -1,17 +1,5 @@
 # Credit Risk Assessment using Graph Neural Networks (GNNs) and K-Nearest Neighbors (KNN)
-Table of Contents
-Introduction
-Project Overview
-Features
-Technology Stack
-Data
-Installation
-Usage
-Model Architecture
-Results
-Contributing
-License
-Acknowledgements
+
 Introduction
 This project aims to develop a sophisticated credit risk assessment model using Graph Neural Networks (GNNs) to predict loan default probabilities. The model leverages unsupervised deep learning techniques alongside K-Nearest Neighbors (KNN) to model relationships between loan applicants, ultimately helping financial institutions make more informed lending decisions.
 
